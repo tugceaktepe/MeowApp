@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MeowApp</string>
+    <string name="title">Miyav\'la Bir Gün</string>
+    <string name="daily_routine">Günlük rutin : %d</string>
+    <string name="routine1">Uyanın!🌞 Çok uyudunuz! Ben Acıktım!🍼</string>
+    <string name="routine2">Kumumu temizler misin?🚽</string>
+    <string name="routine3">Acıktım mamamı verir misin?🍽 </string>
+    <string name="routine4">Beni sevmeden işine başlayamazsın!🧡</string>
+    <string name="routine5">Öğle arası benimle oynar mısın?🐱</string>
+    <string name="routine6">Kestirmem lazım!🛏 </string>
+    <string name="routine7">Hey! Açım ben!🍗</string>
+    <string name="routine8">Akşamları soğuk oluyor da beni sarıp sarmalar mısın?😽</string>
+    <string name="routine9">En sevdiğim diziyi açar mısın?📺👨‍👩‍👦</string>
+    <string name="routine10">Anne hadi yatalım!🐈🛏👫</string>
+    <string name="routine1_desc">Bizim evde de erkenci kuş var. Hele bir uyanma da gör! Yersin tokadı 😾🥊</string>
+    <string name="routine2_desc">Kediler temiz hayvanlardır. Eh o da haklı olarak temiz bir kum istiyor.Eğer kum yeterince temiz değilse, Minnak tuvaletinin önünde saatlerce miyavlayabilir. O yüzden üstat bana bağırmaya başlamadan, ben görevimi yapmaya calışıyorum 👀</string>
+    <string name="routine3_desc">Her sabah aynı saatlerde mamasını ister. Bir de geceden kalan mamaları asla yemez! Her zaman taze mama istiyoruz 🔥</string>
+    <string name="routine4_desc">Sabaha kadar ilgisiz kaldı. Geceleri biz uyuduk simdi görevimizi yapıp onu sevmeliyiz.💚</string>
+    <string name="routine5_desc">Onunla oynamazsan çalışırken elini ısırma ihtimali %99! 😼</string>
+    <string name="routine6_desc">Minnak için Siesta zamanı! Öğlen uykusuna bayılır. Kedilerin günde 15 saat uyuduğunu biliyor muydunuz?🥱</string>
+    <string name="routine7_desc">Kediler mamalarını taze severler. Bu sebeple açıkta mama bırakmaktansa günde 2 öğün idealdir. Fakat bu rutin her kedide aynı değildir.🤗</string>
+    <string name="routine8_desc">Gün içinde mesai yaptıysam beni çok özlüyor. Ben onun kölesi olabilirim ama karşılıklı sevgimiz sonsuz büyüklükte!😍</string>
+    <string name="routine9_desc">Akşam rutinimizde birlikte tv izliyoruz. Daha doğrusu biz izlerken o da yanımızda uyuyor😇</string>
+    <string name="routine10_desc">Uyuması için ona güzel bir sepet yapmıştım ama inanın bana pahalı kedi yatağı alsanız bile o gelip sizle uyumak isteyecektir.🥰😻 </string>
+</resources>
