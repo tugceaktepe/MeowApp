@@ -16,6 +16,7 @@ import androidx.compose.foundation.lazy.items
 import androidx.compose.foundation.lazy.itemsIndexed
 import androidx.compose.material.*
 import androidx.compose.runtime.*
+import androidx.compose.runtime.saveable.rememberSaveable
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.clip
@@ -84,7 +85,7 @@ fun OneDayOfACatTopBar() {
 @Composable
 fun DailyRoutineItem(routine: DailyRoutine, routineNumber: Int, modifier: Modifier = Modifier) {
 
-    var expanded by remember { mutableStateOf(false) }
+    var expanded by rememberSaveable { mutableStateOf(false) }
 
     Card(modifier = Modifier.padding(8.dp)) {
         Column(
